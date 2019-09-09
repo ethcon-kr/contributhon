@@ -1,26 +1,19 @@
 language: ruby
-
 rvm:
-  - 2.4.1
-
+- 2.4.1
 git:
   depth: false
-
 cache: bundler
-
 before_install: true
-
 install:
-  - gem install bundler
-  - bundle install
-
+- gem install bundler
+- bundle install
 script:
-  - jekyll build
-
+- jekyll build
 deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
+  provider: releases
+  api_key:
+    secure: pbFncOZWJDlnujs9QwUSb+0gToyUQ+E9LGmE1qCqvu3bf2Cj6qA5dLnD45b8WjAQRpq0puGwuhn/FGhQvBNTHnBWTzM9OnmRIl4lPRAu3Em/WDJ+vyz6YjndlCLHDlghayrLo8VFklAHupmjQAd6Lascb7ZSibQV0KwHaEW8hx4POS+odvQO80HtOM7sPjkfc/eGu1gNt84C+Kz5TyM+2P20tQOZOVvCxcBWWPjU7zWYZ0STxvR1+AkNB1bRsvd4Q60BBvTt12PfOi0S/Y/1nCEcSWJYuXbm+NFDHZILA6UUkUce5FOtbQDaG5LMY7X+0dngZWh8wQmJkm8tsZThkK3xEflmvw4apniFHjCttuxAmVHaj0PB+PWNS+HVU4S8DWuCOr8zqPB/+JSbc94LphU+SGPE8dsDZn9MngZurG59bsom/9Hv49SyQNxRUMh9zkqBlfGPvv7swj0QrPfDOgGrCueHOCo8PSw0Te30v9GpgLUCbNZAV+xwVRkpalugo9F8mYsjpRH6uMpx1TWy4lfQPZNRQFbVSB+I20ZHG3lMJ6hmT9HPCg1pyAFkxqj8ze5lAJLiGRGvFWWOSxiA7j4dE+HnqZbhx7q7TiT3abhwIQdVclaquLFgJPkHkCVYalU/LIoDtjEtCz1vp/HEG96Ue6kuQgFQqtypO2/NWgI=
+  file: _site
   on:
-    branch: master
+    repo: ethcon-kr/contributhon
