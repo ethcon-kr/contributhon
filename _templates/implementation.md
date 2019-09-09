@@ -1,7 +1,7 @@
 ---
 layout: contribution
 title: <TITLE_HERE>
-category: research-impl
+category: implementation
 date:   2019-09-07 00:00:00 +0900
 author: <GITHUB_ID>
 ---

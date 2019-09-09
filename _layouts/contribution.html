@@ -1,0 +1,19 @@
+---
+layout: post
+---
+{%- assign contribution_paths = site.contribution_pages | default: default_paths -%}
+<div class="menu" style="border: 0px">
+  <ul>
+    {%- for path in contribution_paths -%}
+    {%- assign category_page = site.pages | where: "path", path | first -%}
+    {%- if category_page.category == page.category -%}
+    <li><a href="{{ category_page.url | relative_url }}">[v]{{ category_page.category | default: all }}</a></li>
+    {%- elsif category_page.title -%}
+    <li><a href="{{ category_page.url | relative_url }}">[ ]{{ category_page.category | default: all }}</a></li>
+    {%- endif -%}
+    {%- endfor -%}
+  </ul>
+</div>
+{{ content }}
+
+{% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any content -->
