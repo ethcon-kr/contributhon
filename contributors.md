@@ -47,7 +47,7 @@ cat "top-contributors"
 {% assign research_pts = researches.size | times: 15 %}
 {% assign implementation_pts = implementations.size | times: 30 %}
 {% assign total_pts = meet_up_pts | plus: translation_pts | plus: bounty_hunt_pts | plus: dev_ex_pts | plus: research_pts | plus: implementation_pts %}
-{%- if total_pts == top_pts and total_pts >= 30 -%}
+{%- if total_pts >= 30 and total_pts == top_pts -%}
 {% assign exist = true %}
 ## <a href="https://github.com/{{ author }}" target="_blank">[{{ author }}]</a>
 <ul>
@@ -151,7 +151,7 @@ cat "contributors"
 {% assign implementation_pts = implementations.size | times: 30 %}
 {% assign total_pts = meet_up_pts | plus: translation_pts | plus: bounty_hunt_pts | plus: dev_ex_pts | plus: research_pts | plus: implementation_pts %}
 
-{%- if total_pts >= 15 and total_pts < 30 and total_pts != top_pts -%}
+{%- if total_pts >= 15 and total_pts < 30 -%}
 {% assign exist = true %}
 ## <a href="https://github.com/{{ author }}" target="_blank">[{{ author }}]</a>
 <ul>
@@ -204,7 +204,7 @@ cat "participants"
 {% assign implementation_pts = implementations.size | times: 30 %}
 {% assign total_pts = meet_up_pts | plus: translation_pts | plus: bounty_hunt_pts | plus: dev_ex_pts | plus: research_pts | plus: implementation_pts %}
 
-{%- if total_pts < 15 and total_pts != top_pts -%}
+{%- if total_pts < 15 -%}
 {% assign exist = true %}
 ## <a href="https://github.com/{{ author }}" target="_blank">[{{ author }}]</a>
 <ul>
