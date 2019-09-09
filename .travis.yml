@@ -1,0 +1,26 @@
+language: ruby
+
+rvm:
+  - 2.4.1
+
+git:
+  depth: false
+
+cache: bundler
+
+before_install: true
+
+install:
+  - gem install bundler
+  - bundle install
+
+script:
+  - jekyll build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
