@@ -16,12 +16,11 @@
 title: Ethereum Contributhon 2019
 email: email@wanseob.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Korean contributors run a contributhon, hackerthon of open-source contribution, for Ethereum.
-  It is held by 
+  Ethereum contributhon is a hackathon of opensource contribution during 5 weeks from Sep 8th to Oct 19th.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://contributhon.ethdev.kr" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ethconkr
+github_username:  ethcon-kr
 
 # Build settings
 markdown: kramdown
