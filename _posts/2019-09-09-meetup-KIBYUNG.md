@@ -7,5 +7,13 @@ author: Miller-kk
 ---
 
 ## Summary
-first meetup
+
+Plan of contribution
+
+1) translation
+ 1.1) Week in Ethereum Korea Version (Considering)
+ 1.2) zero-knowledge proof related document
+
+2) Gitcoin Bounty
+ 2.1) iExec Bounty
 
