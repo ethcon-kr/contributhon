@@ -43,6 +43,14 @@ plugins:
 header_pages:
   - index.md
   - contributors.md
-  - contributions.md
+  - contributions/all.md
   - how-to.md
 
+contribution_pages:
+  - contributions/all.md
+  - contributions/meetup.md
+  - contributions/translation.md
+  - contributions/bounty-hunt.md
+  - contributions/devex.md
+  - contributions/research.md
+  - contributions/implementation.md
