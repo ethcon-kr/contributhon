@@ -2,7 +2,7 @@
 layout: contribution
 title: 2019-09-09-meetup-Sunghee
 category: meetup
-date:   2019-09-09 00:00:00 +0900
+date:   2019-09-09 19:00:00 +0900
 author: Sunghee2
 
 ---
