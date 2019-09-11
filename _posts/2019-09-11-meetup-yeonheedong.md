@@ -7,4 +7,5 @@ author: yeonheedong
 ---
 
 ## Summary
-Write down what you achieved during the meet-up.
+1. Translating cryptography parts - Mastering Ethereum
+2. Bounty hunting through Gitcoin platform (whenever i have time)
