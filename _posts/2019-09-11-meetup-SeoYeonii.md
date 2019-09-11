@@ -7,4 +7,11 @@ author: SeoYeonii
 ---
 
 ## Summary
-Write down what you achieved during the meet-up.
+First offline meetup
+
+What I will do...
+
+1) Translation
+  - Mastering Ethereum
+
+2) Gitcoin Bounty
