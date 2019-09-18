@@ -1,7 +1,7 @@
 ---
 layout: contribution
-title: translation
-category: Translation
+title: Translation
+category: translation
 date:   2019-09-16 21:00:00 +0900
 author: ljjk159
 ---
