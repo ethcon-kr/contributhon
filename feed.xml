@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://contributhon.ethdev.kr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://contributhon.ethdev.kr/" rel="alternate" type="text/html" /><updated>2019-09-25T11:48:42+00:00</updated><id>https://contributhon.ethdev.kr/feed.xml</id><title type="html">Ethereum Contributhon 2019</title><subtitle>Ethereum contributhon is a hackathon of opensource contribution during 5 weeks from Sep 8th to Oct 19th.</subtitle><entry><title type="html">3rd meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/23/meetup-yeonheedong.html" rel="alternate" type="text/html" title="3rd meetup" /><published>2019-09-23T10:00:00+00:00</published><updated>2019-09-23T10:00:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/23/meetup-yeonheedong</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/23/meetup-yeonheedong.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://contributhon.ethdev.kr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://contributhon.ethdev.kr/" rel="alternate" type="text/html" /><updated>2019-09-25T15:09:18+00:00</updated><id>https://contributhon.ethdev.kr/feed.xml</id><title type="html">Ethereum Contributhon 2019</title><subtitle>Ethereum contributhon is a hackathon of opensource contribution during 5 weeks from Sep 8th to Oct 19th.</subtitle><entry><title type="html">2019-09-25 meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/25/meetup-KIBYUNG.html" rel="alternate" type="text/html" title="2019-09-25 meetup" /><published>2019-09-25T12:02:00+00:00</published><updated>2019-09-25T12:02:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/25/meetup-KIBYUNG</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/25/meetup-KIBYUNG.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;1) Develop Truffle Plugin&lt;/p&gt;
+
+&lt;p&gt;1-1) Integration of Smart Contract’s Security Tools 
+  1-2) Tool Testing
+  1-3) Plugin Development&lt;/p&gt;
+
+&lt;p&gt;2) I Search Gitcoin Project but it’s too hard.. keep searching&lt;/p&gt;</content><author><name>Miller-kk</name></author><category term="meetup" /><summary type="html">Summary</summary></entry><entry><title type="html">Translation</title><link href="https://contributhon.ethdev.kr/translation/2019/09/25/ljjk159-Translation.html" rel="alternate" type="text/html" title="Translation" /><published>2019-09-25T12:00:00+00:00</published><updated>2019-09-25T12:00:00+00:00</updated><id>https://contributhon.ethdev.kr/translation/2019/09/25/ljjk159-Translation</id><content type="html" xml:base="https://contributhon.ethdev.kr/translation/2019/09/25/ljjk159-Translation.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Translation of Elliptic Curve Cryptography (https://ethresearch.kr/t/topic/165)&lt;/p&gt;</content><author><name>ljjk159</name></author><category term="translation" /><summary type="html">Summary Translation of Elliptic Curve Cryptography (https://ethresearch.kr/t/topic/165)</summary></entry><entry><title type="html">meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/25/ljjk159-meetup.html" rel="alternate" type="text/html" title="meetup" /><published>2019-09-25T12:00:00+00:00</published><updated>2019-09-25T12:00:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/25/ljjk159-meetup</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/25/ljjk159-meetup.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;studying Dapp&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>ljjk159</name></author><category term="meetup" /><summary type="html">Summary studying Dapp</summary></entry><entry><title type="html">3rd meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/23/meetup-yeonheedong.html" rel="alternate" type="text/html" title="3rd meetup" /><published>2019-09-23T10:00:00+00:00</published><updated>2019-09-23T10:00:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/23/meetup-yeonheedong</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/23/meetup-yeonheedong.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;translate mastering ethereum ch4&lt;/p&gt;</content><author><name>yeonheedong</name></author><category term="meetup" /><summary type="html">Summary</summary></entry><entry><title type="html">2019-09-18 meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/18/meetup-KIBYUNG.html" rel="alternate" type="text/html" title="2019-09-18 meetup" /><published>2019-09-18T12:10:00+00:00</published><updated>2019-09-18T12:10:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/18/meetup-KIBYUNG</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/18/meetup-KIBYUNG.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
@@ -21,24 +33,4 @@
 &lt;ul&gt;
   &lt;li&gt;Translation of Mastering-Ethereum&lt;/li&gt;
   &lt;li&gt;Translation of Elliptic Curve Cryptography&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ljjk159</name></author><category term="meetup" /><summary type="html">Summary Translation of Mastering-Ethereum Translation of Elliptic Curve Cryptography</summary></entry><entry><title type="html">2019-09-16-meetup-SeoYeonii</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-SeoYeonii.html" rel="alternate" type="text/html" title="2019-09-16-meetup-SeoYeonii" /><published>2019-09-16T10:00:00+00:00</published><updated>2019-09-16T10:00:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-SeoYeonii</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-SeoYeonii.html">&lt;p&gt;1) Translation&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;waiting for consent&lt;/li&gt;
-  &lt;li&gt;
-    &lt;ol&gt;
-      &lt;li&gt;oracles&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2) Bounty Hunt&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;still searching…&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SeoYeonii</name></author><category term="meetup" /><summary type="html">1) Translation waiting for consent oracles</summary></entry><entry><title type="html">meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-sunghee.html" rel="alternate" type="text/html" title="meetup" /><published>2019-09-16T10:00:00+00:00</published><updated>2019-09-16T10:00:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-sunghee</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-sunghee.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Todo😀&lt;/p&gt;
-
-&lt;p&gt;refactor the common steps between the two validation functions(Metamask)&lt;/p&gt;</content><author><name>Sunghee2</name></author><category term="meetup" /><summary type="html">Summary</summary></entry><entry><title type="html">2nd meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-yeonheedong.html" rel="alternate" type="text/html" title="2nd meetup" /><published>2019-09-16T10:00:00+00:00</published><updated>2019-09-16T10:00:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-yeonheedong</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/16/meetup-yeonheedong.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Translating CH4 cryptography parts - Mastering Ethereum&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>yeonheedong</name></author><category term="meetup" /><summary type="html">Summary Translating CH4 cryptography parts - Mastering Ethereum</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>ljjk159</name></author><category term="meetup" /><summary type="html">Summary Translation of Mastering-Ethereum Translation of Elliptic Curve Cryptography</summary></entry></feed>
