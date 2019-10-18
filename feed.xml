@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://contributhon.ethdev.kr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://contributhon.ethdev.kr/" rel="alternate" type="text/html" /><updated>2019-10-17T05:28:50+00:00</updated><id>https://contributhon.ethdev.kr/feed.xml</id><title type="html">Ethereum Contributhon 2019</title><subtitle>Ethereum contributhon is a hackathon of opensource contribution during 5 weeks from Sep 8th to Oct 19th.</subtitle><entry><title type="html">Feedback(Proofread) for other’s translation</title><link href="https://contributhon.ethdev.kr/translation/2019/10/16/traslation-HackerEunji.html" rel="alternate" type="text/html" title="Feedback(Proofread) for other's translation" /><published>2019-10-16T15:54:00+00:00</published><updated>2019-10-16T15:54:00+00:00</updated><id>https://contributhon.ethdev.kr/translation/2019/10/16/traslation-HackerEunji</id><content type="html" xml:base="https://contributhon.ethdev.kr/translation/2019/10/16/traslation-HackerEunji.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://contributhon.ethdev.kr/feed.xml" rel="self" type="application/atom+xml" /><link href="https://contributhon.ethdev.kr/" rel="alternate" type="text/html" /><updated>2019-10-18T03:37:21+00:00</updated><id>https://contributhon.ethdev.kr/feed.xml</id><title type="html">Ethereum Contributhon 2019</title><subtitle>Ethereum contributhon is a hackathon of opensource contribution during 5 weeks from Sep 8th to Oct 19th.</subtitle><entry><title type="html">Feedback(Proofread) for other’s translation</title><link href="https://contributhon.ethdev.kr/translation/2019/10/16/traslation-HackerEunji.html" rel="alternate" type="text/html" title="Feedback(Proofread) for other's translation" /><published>2019-10-16T15:54:00+00:00</published><updated>2019-10-16T15:54:00+00:00</updated><id>https://contributhon.ethdev.kr/translation/2019/10/16/traslation-HackerEunji</id><content type="html" xml:base="https://contributhon.ethdev.kr/translation/2019/10/16/traslation-HackerEunji.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Write down a brief summary for your contribution.
 I added simple flow correction and helpful tips to make the article more plentiful.
 I hope this would be helpful!&lt;/p&gt;
@@ -36,15 +36,17 @@ https://medium.com/@zxzxs9182/ethereum-yellow-paper-walkthrough-1-7-ko-68a51d068
 &lt;ol&gt;
   &lt;li&gt;examine solidity security tool&lt;/li&gt;
   &lt;li&gt;set up development environment for security integration project&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Sunghee2</name></author><category term="meetup" /><summary type="html">Summary 😀</summary></entry><entry><title type="html">Update docs</title><link href="https://contributhon.ethdev.kr/dx/2019/09/30/DX-hjlee9182.html" rel="alternate" type="text/html" title="Update docs" /><published>2019-09-30T15:00:00+00:00</published><updated>2019-09-30T15:00:00+00:00</updated><id>https://contributhon.ethdev.kr/dx/2019/09/30/DX-hjlee9182</id><content type="html" xml:base="https://contributhon.ethdev.kr/dx/2019/09/30/DX-hjlee9182.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;/ol&gt;</content><author><name>Sunghee2</name></author><category term="meetup" /><summary type="html">Summary 😀</summary></entry><entry><title type="html">Eunji</title><link href="https://contributhon.ethdev.kr/2019/10/02/eunji.html" rel="alternate" type="text/html" title="Eunji" /><published>2019-10-02T00:00:00+00:00</published><updated>2019-10-02T00:00:00+00:00</updated><id>https://contributhon.ethdev.kr/2019/10/02/eunji</id><content type="html" xml:base="https://contributhon.ethdev.kr/2019/10/02/eunji.html">&lt;p&gt;layout: contribution
+title: First attendance on October!
+category: meetup
+date:   2019-10-02 00:19:50 +0900
+author: HackerEunji
+—&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I was looking for my questions about git coin slack!
+But still too hard…. What should I do? (cry)&lt;/p&gt;</content><author><name></name></author><summary type="html">layout: contribution title: First attendance on October! category: meetup date: 2019-10-02 00:19:50 +0900 author: HackerEunji —</summary></entry><entry><title type="html">Update docs</title><link href="https://contributhon.ethdev.kr/dx/2019/09/30/DX-hjlee9182.html" rel="alternate" type="text/html" title="Update docs" /><published>2019-09-30T15:00:00+00:00</published><updated>2019-09-30T15:00:00+00:00</updated><id>https://contributhon.ethdev.kr/dx/2019/09/30/DX-hjlee9182</id><content type="html" xml:base="https://contributhon.ethdev.kr/dx/2019/09/30/DX-hjlee9182.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Add error code&lt;/p&gt;
 
 &lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
-&lt;p&gt;Contribution URL: https://github.com/ethereum/EIPs/pull/2300&lt;/p&gt;</content><author><name>hjlee9182</name></author><category term="DX" /><summary type="html">Summary Add error code</summary></entry><entry><title type="html">meetup</title><link href="https://contributhon.ethdev.kr/meetup/2019/09/28/meetup-hjlee.html" rel="alternate" type="text/html" title="meetup" /><published>2019-09-28T04:30:00+00:00</published><updated>2019-09-28T04:30:00+00:00</updated><id>https://contributhon.ethdev.kr/meetup/2019/09/28/meetup-hjlee</id><content type="html" xml:base="https://contributhon.ethdev.kr/meetup/2019/09/28/meetup-hjlee.html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;PR&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;web3.py - Modify docs about unlockAccount&lt;/li&gt;
-  &lt;li&gt;go-ethereum , EIP - Add Error  in docs&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>hjlee9182</name></author><category term="meetup" /><summary type="html">Summary</summary></entry></feed>
+&lt;p&gt;Contribution URL: https://github.com/ethereum/EIPs/pull/2300&lt;/p&gt;</content><author><name>hjlee9182</name></author><category term="DX" /><summary type="html">Summary Add error code</summary></entry></feed>
