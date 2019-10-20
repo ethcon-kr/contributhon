@@ -2,7 +2,7 @@
 layout: contribution
 title: eunji's translation
 category: translation
-date:   2019-09-07 00:00:00 +0900
+date:   2019-09-29 19:00:00 +0900
 author: HackerEunji
 ---
 
